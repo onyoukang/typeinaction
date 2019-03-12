@@ -1,0 +1,41 @@
+html {
+	background-color: #0b040c;
+	text-align: center;
+}
+
+.logo {
+	width: 40vw;
+	margin-top: 27vh;
+	margin-bottom: 4vh;
+}
+
+.buttons {
+	color: #3d2443;
+	text-decoration: none;
+	padding: 8px;
+	border: 1px #3d2443 solid;
+}
+
+.buttons:hover {
+	background-color: #ffffff;
+}
+
+.row img {
+	width: 15vw;
+	margin: 0;
+	padding: 0;
+}
+
+.grid {
+	margin: auto;
+	width: 90vw;
+	margin-top: 5vh;
+}
+
+.margin {
+	padding-left: 5vw;
+}
+
+.row {
+	padding-bottom: 5vh;
+}
